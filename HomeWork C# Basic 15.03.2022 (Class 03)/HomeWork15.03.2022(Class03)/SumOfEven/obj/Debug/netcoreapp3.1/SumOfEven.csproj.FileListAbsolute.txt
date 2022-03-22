@@ -1,0 +1,14 @@
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.exe
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.deps.json
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.json
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.dev.json
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csproj.AssemblyReference.cache
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfo.cs
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\gjorg\OneDrive\Desktop\PRACTICE by Jo\HomeWork C# Basic 15.03.2022 (Class 03)\HomeWork15.03.2022(Class03)\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.genruntimeconfig.cache
